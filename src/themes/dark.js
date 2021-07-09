@@ -11,7 +11,7 @@ export const dark = {
       background1: "black",
       accent1: "#3F46BF",
       button: "#2C3673",
-      background2: "#2C3673",
+      background2: "#383EA6",
     },
     // Breakpoints for responsive design
     breakpoints: {
