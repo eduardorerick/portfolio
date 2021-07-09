@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Tecnologias</SectionTitle>
     <SectionText>
-      Aaaaaaaaaaaaaasiajsijaisjas
+      Fiz cursos completos pelo Curso em Vídeo de HTML5, CSS3 e Javascript. Responsive Web Design e Data Algotirhms and Structures pela freeCodeCamp. The Modern React Bootcamp (Hooks, Context, NextJS, Router) por Colt Stelle. Atualmente aluno da turma Ignite pela Rocketseat na trilha JS
     </SectionText>
     <List>
       <ListItem>
@@ -17,7 +17,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br />React
+            Experiencia com React, Javascript, HTML5, CSS3, Estrutura de dados, Programção orientada a Objetos, Consumo de API.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -26,7 +26,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />Node-js
+            Aprendendo <br />Node-js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -35,7 +35,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>UI/UX Design</ListTitle>
           <ListParagraph>
-            Experience with <br />Figma
+            Experiencia com <br />Figma
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -1,11 +1,20 @@
-import React from 'react'
+import React, {useState} from 'react'
+import { BsSun, BsMoon } from 'react-icons/bs'
 
 export const ToggleButton = ({toggleTheme}) => {
+    const [sunIcon, setSunIcon] = useState(true)
+
+    const toggleIcon = () => {
+        setSunIcon(!sunIcon);
+        toggleTheme()
+    }
+
     return (
         <button
-            onClick={toggleTheme}
+            onClick={toggleIcon}
+            style={{position: 'absolute', background: 'transparent', border:'0', color:"white", margin:'5px 5px', left:'96%'}}
         >
-            Clique aqui
+           {sunIcon ? <BsSun size="3rem"/> : <BsMoon size ="3rem"/>}
         </button>
     )
 };

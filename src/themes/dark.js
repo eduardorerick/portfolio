@@ -7,7 +7,7 @@ export const dark = {
     },
     // Colors for layout
     colors: {
-      primary1: "#4843D9",
+      primary1: "white",
       background1: "black",
       accent1: "#3F46BF",
       button: "#2C3673",
