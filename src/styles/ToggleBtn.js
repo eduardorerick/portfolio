@@ -2,7 +2,7 @@ import React, {useState} from 'react'
 import { BsSun, BsMoon } from 'react-icons/bs'
 
 export const ToggleButton = ({toggleTheme}) => {
-    const [sunIcon, setSunIcon] = useState(true)
+    const [sunIcon, setSunIcon] = useState(false)
 
     const toggleIcon = () => {
         setSunIcon(!sunIcon);

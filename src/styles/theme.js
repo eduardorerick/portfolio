@@ -11,7 +11,7 @@ import { ToggleButton } from './ToggleBtn'
 
 
 const Theme = ({ children }) => {
-  const [theme, setTheme] = useState(light);
+  const [theme, setTheme] = useState(dark);
 
   const toggleTheme = () => {
     setTheme(theme.title === 'light' ? dark : light)

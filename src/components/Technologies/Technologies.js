@@ -13,11 +13,13 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <ListItem>
-        <DiReact size="3rem" />
+        <DiReact size="3rem"/>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiencia com React, Javascript, HTML5, CSS3, Estrutura de dados, Programção orientada a Objetos, Consumo de API.
+            Experiencia com : <br/> 
+            React, Javascript. <br/> 
+            HTML5, CSS3. <br/> Estrutura de dados. <br/> Programação orientada a objetos.np <br/>Consumo de API.
           </ListParagraph>
         </ListContainer>
       </ListItem>
