@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Tecnologias</SectionTitle>
     <SectionText>
-      Fiz cursos completos pelo Curso em Vídeo de HTML5, CSS3 e Javascript. Responsive Web Design e Data Algotirhms and Structures pela freeCodeCamp. The Modern React Bootcamp (Hooks, Context, NextJS, Router) por Colt Stelle. Atualmente aluno da turma Ignite pela Rocketseat na trilha JS
+      Fiz cursos completos pelo Curso em Vídeo de HTML5, CSS3 e Javascript. Responsive Web Design e Data Algorithms and Structures pela freeCodeCamp. The Modern React Bootcamp (Hooks, Context, NextJS, Router) por Colt Stelle. Atualmente aluno da turma Ignite pela Rocketseat na trilha JS
     </SectionText>
     <List>
       <ListItem>

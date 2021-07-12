@@ -3,9 +3,9 @@ export const projects = [
     title: 'Study App',
     description: "Site para utilizar a técnica pomodoro para contar o tempo de estudo e de descanso, feito para praticar Javascript.",
       image: '/images/studytimer.png',
-      tags: ['React', 'WebRTC'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['Javascript'],
+    source: 'https://github.com/eduardorerick/Study-App',
+    visit: 'https://eduardorerick.github.io/Study-App/',
     id: 0,
   },
   {
