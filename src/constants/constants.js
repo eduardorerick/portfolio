@@ -2,8 +2,8 @@ export const projects = [
   {
     title: 'Study App',
     description: "Site para utilizar a técnica pomodoro para contar o tempo de estudo e de descanso, feito para praticar Javascript.",
-      image: '/images/studytimer.png',
-      tags: ['Javascript'],
+    image: '/images/studytimer.png',
+    tags: ['Javascript'],
     source: 'https://github.com/eduardorerick/Study-App',
     visit: 'https://eduardorerick.github.io/Study-App/',
     id: 0,
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/chat-er.png',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://github.com/eduardorerick/chat-er',
-    visit: 'https://chat-er.netlify.app/chats',
+    visit: 'https://chat-er.netlify.app/',
     id: 1,
   },
   {
@@ -25,6 +25,24 @@ export const projects = [
     source:'https://github.com/eduardorerick/letmeask',
     visit:'https://letmeask-510c3.web.app/',
     id: 2,
+  },
+  {
+    title: 'Aulas Particulares',
+    description: 'Site para agendar aulas através de um formulário que envia o email automaticamente. Desenvolvido para praticar styled-components e EmailJS.',
+    image: '/images/aulas-particulares.jpg',
+    tags: ['React','Styled-components', 'EmailJS'],
+    source:'https://github.com/eduardorerick/aulas-particulares',
+    visit:'https://eduardorerick.github.io/aulas-particulares/',
+    id: 3,
+  },
+  {
+    title: 'er.conomize',
+    description: 'Site feito para salvar as financias. Desenvolvido para praticar styled-components, typescript, localStorage.',
+    image: '/images/er.conomize.png',
+    tags: ['React','Styled-components', 'Typescript'],
+    source:'https://github.com/eduardorerick/er.conomize',
+    visit:'https://erconomize.netlify.app/',
+    id: 4,
   }
 ];
 
