@@ -46,7 +46,10 @@ const Timeline = () => {
       <br/>
       <SectionTitle>Sobre mim</SectionTitle>
       <SectionText>
-        Sou de Belém do Pará, 24 anos, a linguagem de programação que mais gosto e tenho afinidade é Javascript. Gosto de trabalhar com ReactJS e Typescript. <br/> Além do código, também estudo soft skills, que me permitem trabalhar melhor em equipe, escutar melhor os feedbacks e gerar um ambiente de trabalho mais agradável.
+        Sou de Belém do Pará, 24 anos, desenvolvedor front-end focado em Javascript. 
+        Trabalho com ReactJS, Typescript e Next na maioria dos meus projetos.<br/>
+        Tenho facilidade de trabalhar em equipe e sou muito paciente na hora de resolver problemas. <br/>
+        Além do código, também estudo soft skills, que me permitem trabalhar melhor, escutando melhor os feedbacks e gerando um ambiente de trabalho mais agradável.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -17,9 +17,11 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experiencia com : <br/> 
-            React, Javascript. <br/> 
-            HTML5, CSS3. <br/> Estrutura de dados. <br/> Programação orientada a objetos.np <br/>Consumo de API.
+            React | Next | TypeScript | Javascript <br/> 
+            HTML5 | CSS3 | Styled-Components | Chakra-UI <br/> 
+            FaunaDB | Firebase | Stripe  <br/>
+            Estrutura de dados e algorítimos <br/>
+            Consumo de API | Axios
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -28,7 +30,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Aprendendo <br />Node-js
+            Básico <br />NodeJS
           </ListParagraph>
         </ListContainer>
       </ListItem>

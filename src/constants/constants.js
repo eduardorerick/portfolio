@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: 'Study App',
-    description: "Site para utilizar a técnica pomodoro para contar o tempo de estudo e de descanso, feito para praticar Javascript.",
-    image: '/images/studytimer.png',
-    tags: ['Javascript'],
-    source: 'https://github.com/eduardorerick/Study-App',
-    visit: 'https://eduardorerick.github.io/Study-App/',
+    title: 'ignews',
+    description: 'Blog com subscrição paga, utilizando Stripe para fazer o pagamento, utilizando getStaticProps para as páginas de post públicas (previews) para melhorar o SEO tornando acessível para os crawlers do google.',
+    image: '/images/ignews.png',
+    tags: ['Next', 'Sass','Typescript', 'Prismic', 'Stripe', 'FaunaDB'],
+    source:'https://github.com/eduardorerick/ignews',
+    // visit:'https://github.com/eduardorerick/ignews',
     id: 0,
   },
   {
@@ -43,6 +43,16 @@ export const projects = [
     source:'https://github.com/eduardorerick/er.conomize',
     visit:'https://erconomize.netlify.app/',
     id: 4,
+  },
+  {
+    
+    title: 'Study App',
+    description: "Site para utilizar a técnica pomodoro para contar o tempo de estudo e de descanso, feito para praticar Javascript.",
+    image: '/images/studytimer.png',
+    tags: ['Javascript'],
+    source: 'https://github.com/eduardorerick/Study-App',
+    visit: 'https://eduardorerick.github.io/Study-App/',
+    id: 5,
   }
 ];
 
