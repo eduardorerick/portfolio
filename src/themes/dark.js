@@ -8,7 +8,7 @@ export const dark = {
     // Colors for layout
     colors: {
       primary1: "white",
-      background1: "black",
+      background1: "linear-gradient(106deg, rgba(85,85,85,1) 0%, rgba(1,1,1,1) 28%)",
       accent1: "#3F46BF",
       button: "#2C3673",
       background2: "#383EA6",
